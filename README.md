@@ -1,4 +1,4 @@
-# 💫 About Me:  Hi 👋, I'm Nandan M Naik
+#  Hi 👋, I'm Nandan M Naik
 🔭 I’m currently working on Techmiya Internship<br>👯 I’m looking to collaborate on Full Stack and AI/ML projects<br>🤝 I’m looking for help with others<br>🌱 I’m currently learning Python Full Stack Development<br>💬 Ask me about Python full stack, c programming, DSA, SQL<br>⚡ Fun fact I love solving coding challenges
 
 
